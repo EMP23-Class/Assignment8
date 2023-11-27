@@ -1,7 +1,4 @@
 using Test
-using Assignment7
-using LinearAlgebra
-using Random
+using Assignment8
 
-include("test_milp.jl")
-
+include("test_studying.jl")
