@@ -1,6 +1,6 @@
-# Assignment7
+# Assignment8
 # Instructions
-1. Complete the functions in the files solve_milp_jump.jl and solve_milp_bb.jl so that tests pass.
+1. Complete the function in the files classes.jl so that tests pass.
 
 # Julia resources
 
